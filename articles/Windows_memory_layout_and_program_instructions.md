@@ -43,10 +43,10 @@ When we encounter a function call, a new stack frame forms. Before and after tha
 Definitions
 ------------
 
-**PEB** - Process Environment Block
+**PEB** - Process Environment Block  
 ![](data/PEB.png)
 
-**TEB** - Thread Environment Block
+**TEB** - Thread Environment Block  
 ![](data/TEB.png)
 
 **DLL** - dynamic link library = dynamically linked library = executable modules = modules
