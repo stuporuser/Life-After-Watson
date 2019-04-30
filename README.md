@@ -3,7 +3,7 @@ Life After Watson
 
 <br>
 
-**Life After Watson** is a reference and playbook. It draws most of its material from Project Watson, Offensive Security Certified Professional (OSCP), and experience. I built this project to suit my own requirements, but I'm glad to accept additions.
+**Life After Watson** is a reference and playbook. It draws most of its material from Project Watson, OSCP, and experience. I built this project to suit my own requirements, but I'm glad to accept additions.
 
 - All articles are inside the `articles` directory.
 - Each article is a markdown file.
