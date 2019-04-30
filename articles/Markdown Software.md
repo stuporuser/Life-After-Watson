@@ -47,3 +47,4 @@ I use MacDown for macOS. It's relatively simple. Each file opens a new window th
 ### [2] On Debian variants of Linux
 
 I use Remarkable from https://remarkableapp.github.io/linux.html. Works well for me so far.
+
