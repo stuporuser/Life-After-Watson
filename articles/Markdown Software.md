@@ -46,21 +46,5 @@ I use MacDown for macOS. It's relatively simple. Each file opens a new window th
 
 ### [2] On Debian variants of Linux
 
-Go with a simple editor so you get the job done quickly and simply. Use GitBook Editor. It supports GitHub-Flavored Markdown (GFM) and has three main components: a file/article explorer that I don't use, a plaintext editing pane on the left, and a rendered preview pane on the right.
-
-To install on 64-bit systems:
-
-```
-cd /tmp
-wget -O gitbook-editor.deb https://www.gitbook.com/editor/linux-64-bit/download
-sudo dpkg -i gitbook-editor.deb
-```
-
-And for 32-bit systems:
-
-```
-cd /tmp
-wget -O gitbook-editor.deb https://www.gitbook.com/editor/linux-32-bit/download
-sudo dpkg -i gitbook-editor.deb
-```
+I use Remarkable from https://remarkableapp.github.io/linux.html. Works well for me so far.
 
